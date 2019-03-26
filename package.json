@@ -1,6 +1,6 @@
 {
-  "_from": "stripe-fire@0.4.2",
-  "_id": "stripe-fire@0.4.2",
+  "_from": "stripe-fire@0.4.3",
+  "_id": "stripe-fire@0.4.3,
   "_inBundle": false,
   "_integrity": "sha1-85z3oQWp1G80TqBspxrD3GmoKp4=",
   "_location": "/stripe-fire",
@@ -26,8 +26,8 @@
   "_spec": "stripe-fire@0.4.2",
   "_where": "/Users/jthompson/Documents/Curvature/curvature-stripe",
   "author": {
-    "name": "Dave",
-    "email": "davidcaseria@gmail.com"
+    "name": "Jon",
+    "email": "jthompson@dmevolve.com"
   },
   "bugs": {
     "url": "https://github.com/davidcaseria/StripeFire/issues"
